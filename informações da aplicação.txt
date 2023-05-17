@@ -1,0 +1,16 @@
+Nessa aplicação o usuario pode:
+
+[x] Criar tarefas,
+[x] Listar todas as tarefas ou uma pelo id,
+[x] Editar tarefas pelo id,
+[x] Deletar tarefa pelo id,
+[X] Marcar pelo id uma tarefa como completa
+
+cada tarefa tem:
+
+[x] ID unico,
+[x] Titulo,
+[x] Descrição,
+[x] Data de criação,
+[x] Data de atualizaçao,
+[x] Data de finalização
